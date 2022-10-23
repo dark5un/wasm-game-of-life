@@ -1,0 +1,3 @@
+[submodule "www"]
+	path = www
+	url = https://github.com/dark5un/wasm-game-of-life-www.git
